@@ -1,1 +1,2 @@
-"# javascript-promises" 
+# Promises in JavaScript
+
